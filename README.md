@@ -2,163 +2,140 @@
 
 # N E X U S
 
-### BUILDING A PERSONAL KNOWLEDGE ECOSYSTEM
+### Building a Personal Knowledge Ecosystem
 
-*Transformando conhecimento em projetos reais, um **commit** por vez.*
+*Transformando conhecimento em projetos reais, um commit por vez.*
 
 </div>
 
+<br>
+
 ---
 
-## `01` SYSTEM OVERVIEW
-
-<table>
-<tr>
-<td width="50%">
+## ◎ SYSTEM OVERVIEW
 
 ### Douglas Soares
 
 **Python Developer**
 
-Apaixonado por tecnologia, automação e sistemas inteligentes.
+Building software with intention.
 
-Construo soluções práticas que conectam conhecimento, código e propósito.
+| | |
+|:---|:---|
+| **Mission** | Building a Personal Knowledge Ecosystem |
+| **Learning** | Python • Networking • Linux |
+| **Status** | ACTIVE |
 
-</td>
-
-<td width="50%">
-
-**FOCUS**  
-Python Development
-
-**MISSION**  
-Building a Personal Knowledge Ecosystem
-
-**STATUS**  
-🟢 ONLINE
-
-**LEARNING**  
-Python · Networking · Linux
-
-**PHILOSOPHY**  
-Código com propósito. Conhecimento com direção.
-
-</td>
-</tr>
-</table>
+<br>
 
 ---
 
-## `02` NEXUS TERMINAL
+## ◎ NEXUS TERMINAL
 
 ```text
 user@nexus:~$ whoami
+
 Douglas Soares
 
 user@nexus:~$ current_project
+
 Nexus
 
-user@nexus:~$ mission
-Building a Personal Knowledge Ecosystem
+user@nexus:~$ philosophy
 
-user@nexus:~$ learning
-✓ Python
-✓ Networking
-> Linux (next)
-> Cybersecurity (in progress)
+The basics, done exceptionally well.
 
 user@nexus:~$ status
-ONLINE
 
-user@nexus:~$ _
+ACTIVE
+
+user@nexus:~$
 ```
+
+<br>
 
 ---
 
-## `03` ACTIVE PROJECTS
+## ◎ ACTIVE PROJECTS
 
-<table>
-<tr>
-<td width="33%">
+### Nexus
 
-### ⭐ Nexus
-
-Base de conhecimento pessoal com foco em organização, automação e futura integração com inteligência artificial.
+> Personal Knowledge Ecosystem
 
 `Python` `SQLite` `CustomTkinter`
 
-**Projeto principal**
+<br>
 
-</td>
+### Sistema Caixa
 
-<td width="33%">
+> Financial Management System
 
-### 📦 Sistema Caixa
+`Python` `SQLite`
 
-Sistema de controle de caixa para fechamento diário, histórico e organização financeira.
+<br>
 
-`Python` `SQLite` `Tkinter`
+### Laboratório Dev
 
-**Em evolução**
+> ESP32 • MicroPython • IoT
 
-</td>
-
-<td width="33%">
-
-### 🧪 Laboratório Dev
-
-Ambiente de estudos e experimentação com ESP32, MicroPython, automação e Internet das Coisas.
-
-`ESP32` `MicroPython` `IoT`
-
-**Planejado**
-
-</td>
-</tr>
-</table>
+<br>
 
 ---
 
-## `04` MISSION ROADMAP
+## ◎ MISSION ROADMAP
 
 ```text
-Python              █████████░  Em desenvolvimento
-Networking          ██████░░░░  Em desenvolvimento
-Linux               ██░░░░░░░░  Próxima etapa
-Cybersecurity       █░░░░░░░░░  Fundamentos
-ESP32 / IoT         █░░░░░░░░░  Laboratório planejado
-AI & Automation     █░░░░░░░░░  Visão de longo prazo
+Python                     ●●●●●
+
+Networking                 ●●●○○
+
+Linux                      ●○○○○
+
+Cybersecurity              ○○○○○
+
+ESP32                      ○○○○○
+
+Artificial Intelligence     ○○○○○
 ```
 
+<br>
+
 ---
 
-## `05` SYSTEM ANALYTICS
+## ◎ SYSTEM ANALYTICS
 
 <div align="center">
 
-<!-- As estatísticas serão inseridas nesta seção. -->
-
-`GitHub Stats em preparação`
+*(Coming soon.)*
 
 </div>
 
+<br>
+
 ---
 
-## `06` COMMUNICATION CHANNELS
+## ◎ COMMUNICATION CHANNELS
 
 <div align="center">
 
-[GitHub](https://github.com/DougDevCreate) ·
-[LinkedIn](www.linkedin.com/in/douglas-soares-6909482ba)
+<a href="https://github.com/DougDevCreate">GitHub</a>
+
+•
+
+<a href="https://www.linkedin.com/in/douglas-soares-6909482ba">LinkedIn</a>
 
 </div>
 
+<br>
+
 ---
 
 <div align="center">
 
-**NEXUS**
+### NEXUS
 
-Building a Personal Knowledge Ecosystem · Always Evolving
+Building a Personal Knowledge Ecosystem
+
+*Designed with purpose.*
 
 </div>
